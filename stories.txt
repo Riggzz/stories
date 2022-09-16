@@ -1,0 +1,7 @@
+STORIES
+
+My first story is about week 1 test 1. It was our first test and i was on the last part which if i remember right was the password validator. I couldnt figure out the .includes() function 
+and i ended up getting the whole test finished 5 minutes before the time limit ended. 
+
+My second story was about my capstone project. I had a lot of issues on making the axios call back to the back-end. It was a tuesday night and my Capstone was due the next day before and 
+ben helped me through all of it. I have to work on coding my front-end more and i plan on building more websites to help better understand everything all around. 
